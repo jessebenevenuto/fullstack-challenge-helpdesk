@@ -47,8 +47,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ### Passo a Passo
 ```
-# Clone o repositório e acesse a pasta do projeto
-$ git clone https://github.com/Fel1324/HelpDesk.git
+# Clone o repositório
+$ git clone https://github.com/jessebenevenuto/fullstack-challenge-helpdesk.git
 
 # Acesse a pasta do projeto no terminal
 $ cd caminho-do-projeto/fullstack-challenge-helpdesk
